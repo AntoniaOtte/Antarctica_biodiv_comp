@@ -2,8 +2,7 @@
 
 ### EG-ABI Data visualisation competition: “Impacts of climate change around Antarctica and the Southern Ocean” 
 
-Diatoms are an important group of single-celled algae. In total they are resposible for approximately 20% of marine primary productivity. 
-Several diatom species are the dominant groups in polar waters, and can survive and even thrive in sea-ice. 
+Diatoms are a type of algae which account for up to 20% of global photosynthesis. They help to remove CO2 from the atmosphere and create oxygen, and they are important components of the marine food web. They are especially diverse, abundant and important in the polar oceans, where they often live in sea-ice. As the ocean warms and sea-ice cover is lost, habitats for these polar diatoms shift to the open water, where they are faced with the additional threat of ocean acidification. The consequences of this for marine photosynthesis and the cascading effects on food webs in the ocean is unknown, but potentially huge. 
 
 Decreases in sea-ice may be having an influence on the number of species of diatoms in the Southern Ocean - in this data visualisation we show diatom species richness (the number of species present) from 2007 to 2021, using data collected through AusCPR. 
 
