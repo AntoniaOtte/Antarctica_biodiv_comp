@@ -20,11 +20,9 @@ The gif file is our final submission.
 
 Submitted by:
 
-Johanna Winder
-
-William Boulton
-
-Antonia Otte
+ - Johanna Winder
+ - William Boulton
+ - Antonia Otte
 
 17/11/2023
 
