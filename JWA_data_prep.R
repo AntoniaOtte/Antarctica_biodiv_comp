@@ -1,5 +1,12 @@
+################################################################################
+# Johanna Winder
+# William Boulton
+# Antonia Otte
+# University of East Anglia
+# 17/11/2023
+################################################################################
 
-
+library(caroline)
 library(dplyr)
 
 # data source:
@@ -9,6 +16,8 @@ library(dplyr)
 #################################################################################
 
 # import the data
+
+setwd() # change working directory
 data <- read.delim('occurrence.txt')
 
 # subset the data for relevant columns
