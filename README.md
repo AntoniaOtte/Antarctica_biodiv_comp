@@ -10,7 +10,15 @@ Sea ice extent data are from the National Sea and Ice Data Centre ([NSIDC](https
 
 Data for diatom species richness are from the Australian Continuous Plankton Recorder ([AusCPR](https://www.gbif.org/dataset/29b28617-c91c-4bc9-b3aa-c97960a8b5c8)), we filtered this dataset below 55 degrees latitude. 
 
-Submitted by 
+To reproduce these results, do the following:
+
+- clone this reposititory
+- run the bash script to pull the sea-ice extent shapefiles from NSIDC
+- run the 2 R scripts in sequence (first JWA_data_prep.R, then EG-EDI-JWA.R), making sure to change any relevant file paths (see the comments), and setting the working directory with setwd as appropriate
+
+The gif file is our final submission. 
+
+Submitted by:
 
 Johanna Winder
 
