@@ -1,4 +1,6 @@
-# Antarctica_biodiv_comp
+# Antarctica Biodiversity Competition
+
+### EG-ABI Data visualisation competition: “Impacts of climate change around Antarctica and the Southern Ocean” 
 
 Diatoms are an important group of single-celled algae. In total they are resposible for approximately 20% of marine primary productivity. 
 Several diatom species are the dominant groups in polar waters, and can survive and even thrive in sea-ice. 
